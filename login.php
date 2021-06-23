@@ -1,9 +1,9 @@
 <?php
     error_reporting(0); 
-    $servername="localhost";
-    $username="root";
-    $password="";
-    $dbname="regdb";
+   $servername="remotemysql.com";
+    $username="voq4GI381Y";
+    $password="1WFM10Kevf";
+    $dbname="voq4GI381Y";
     $email = $p = '';
     $email=$_POST["email"];
     $p=$_POST["password"];
