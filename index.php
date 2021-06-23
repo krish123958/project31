@@ -14,7 +14,7 @@
             <a href="Homepage.html"><im src="logo.png"></a>
             <div class="nav-links">
                  <ul>
-                    <li><a href="Login.php">LOGIN</a></li>
+                    <li><a href="login.php">LOGIN</a></li>
                     <li><a href="register.php">REGISTER FOR CUSTOMERS</a></li>
                     <li><a href="regforphotographer.php">REGISTER FOR PHOTOGRAPHERS</a></li>
                     <!--<li><a href="">COURSE</a></li>
