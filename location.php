@@ -19,10 +19,10 @@
         <?php
         #include("homepage.php");
         error_reporting(0); 
-        $servername="localhost";
-        $username="root";
-        $password="";
-        $dbname="regdb";
+        $servername="remotemysql.com";
+        $username="voq4GI381Y";
+        $password="1WFM10Kevf";
+        $dbname="voq4GI381Y";
         $loc=$_POST["loc"];
         $conn = mysqli_connect($servername, $username, $password, $dbname);
         if (!$conn) 
